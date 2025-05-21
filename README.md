@@ -70,15 +70,6 @@ Built as part of a professional data analytics initiative, this project showcase
 
 ---
 
-## 🎓 Use Cases
-
-- **Data Analyst / Power BI Developer Portfolio Project**
-- **Business Case Studies on Retention Strategies**
-- **Academic Data Analytics Projects**
-- **Corporate BI Use for Customer Retention Planning**
-
----
-
 ## 👨‍💼 Author
 
 **Arshad Roshan**  
