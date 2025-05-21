@@ -62,11 +62,11 @@ Built as part of a professional data analytics initiative, this project showcase
 ## 💡 How to Use
 
 1. Clone or download this repository.
-2. Open `Customer_Churn_Analysis.pbix` using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+2. Open `Churn_Trends_analysis.pbix` using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Explore dashboards, slicers, and filters to interact with the data.
 4. Review the `.doc` or `.pptx` files for detailed project explanation and insights.
 
-> 📌 If you don’t have Power BI Desktop, view the dashboard using the included PDF (`Customer_Churn_Analysis_dashboard.pdf`).
+> 📌 If you don’t have Power BI Desktop, view the dashboard using the included PDF (`Churn_Trends_dashboard.pdf`).
 
 ---
 
