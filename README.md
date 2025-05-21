@@ -48,7 +48,7 @@ Built as part of a professional data analytics initiative, this project showcase
 
 ---
 
-## 🧰 Tools & Technologies Used
+## 💻 Tools & Technologies Used
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
