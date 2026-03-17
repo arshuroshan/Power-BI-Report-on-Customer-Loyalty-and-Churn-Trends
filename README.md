@@ -1,6 +1,7 @@
 # 📈 Power BI Report on Customer Loyalty and Churn Trends
 
 This repository contains a comprehensive Power BI project focused on analyzing customer churn and loyalty trends. The project uses interactive dashboards, structured data modeling, and predictive insights to help businesses understand churn patterns and make data-driven decisions to improve customer retention.
+<img width="1417" height="828" alt="Churn_Trends_main%" src="https://github.com/user-attachments/assets/c1107318-920b-4fce-9c4f-c90220811fe1" />
 
 ---
 
